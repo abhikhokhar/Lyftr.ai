@@ -13,7 +13,7 @@ The application is designed to remain reliable even when an LLM provider encount
 | Backend API | https://lyftr-ai-roq0.onrender.com |
 | API Health Check | https://lyftr-ai-roq0.onrender.com/health |
 | API Documentation | https://lyftr-ai-roq0.onrender.com/docs |
-| GitHub Repository | https://github.com/abhikhokhar/Lyfrt.ai |
+| GitHub Repository | https://github.com/abhikhokhar/Lyftr.ai |
 
 **Note:** The backend is hosted on Render's free instance, which may spin down after inactivity. The first request after inactivity can take longer.
 
